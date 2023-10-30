@@ -3,7 +3,7 @@
 </p>
        
        
- <h2 align="left"> 📝 SOBRE MIM</h2>
+ <h2 align="left"> 👩🏻‍🎓 SOBRE MIM</h2>
  
  <p align = "justified">Estou em busca de um estágio para meu aprimoramento profissional na área, na qual trabalho e já possuo experiência.
  </p>
