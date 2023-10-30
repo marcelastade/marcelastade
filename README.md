@@ -1,5 +1,5 @@
 <p>
- <img src= "./images/marcela.png"/>
+ <img src= "https://discord.com/channels/957753080051552277/1088502571372662814/1168689375794692096"/>
 </p>
        
        
