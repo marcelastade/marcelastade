@@ -1,5 +1,5 @@
 <p>
- <img src= "https://cdn.discordapp.com/attachments/1020518662597246989/1166727937706442772/White_Torn_Paper_LinkedIn_Banner.jpg?ex=654b8b11&is=65391611&hm=b02a867fa8359afbfdcb24f3e1461a86fe4640a31d1f29a58eed10110baaa61c&"/>
+ <img src= "./images/marcela.png"/>
 </p>
        
        
@@ -12,7 +12,7 @@
 <p align = "justified">Tenho uma curiosidade aguçada e amo descobrir e aprender novas coisas.</p>
      
 <div align="center">
-  <a href="https://www.linkedin.com/in/amandaedantasds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Amanda Dantas" target="_blank">
+  <a href="https://www.linkedin.com/in/marcela-stade-a51678212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Marcela Stade" target="_blank">
   </a>
 <h2 align="left" > 💻 SKILLS </h2>
 
