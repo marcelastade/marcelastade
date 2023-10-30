@@ -1,5 +1,5 @@
 <p>
- <img src= "https://discord.com/channels/957753080051552277/1088502571372662814/1168689375794692096"/>
+ <img src= "https://cdn.discordapp.com/attachments/1088502571372662814/1168689375471751339/IMG_6668.png?ex=6552adcc&is=654038cc&hm=8c506eb168dec4a32754db4bdc27d84638a0b4a3ed55f125e32ff0c9aa2aefa8&"/>
 </p>
        
        
