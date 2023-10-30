@@ -28,6 +28,6 @@
 
 <p align = "center">
     <a href="https://github.com/Ma-189">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ma-189&theme=rose" align="center"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ma-189&theme=omni" align="center"/>
     </a>
 </p>
