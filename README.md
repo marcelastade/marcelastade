@@ -5,11 +5,11 @@
        
  <h2 align="left"> 📝 SOBRE MIM</h2>
  
- <p align = "justified">Sou uma pessoa criativa, proativa, comunicativa, organizada e gosto de trabalhar em equipe.
+ <p align = "justified">Estou em busca de um estágio para meu aprimoramento profissional na área, na qual trabalho e já possuo experiência.
  </p>
-<p align = "justified">Em 2022 concluí o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) e atualmente curso Bacharelado em Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP).
+<p align = "justified">Sou formada pelo IFSP-SPO no Técnico em Informática Integrado ao Ensino Médio, que conclui no ano de 2022. Atualmente, estou cursando o Bacharelado de Sistemas de Informação na FIAP, com previsão de conclusão para o 2º semestre de 2026.
 </p>
-<p align = "justified">Tenho uma curiosidade aguçada e amo descobrir e aprender novas coisas.</p>
+<p align = "justified">Sou proativa, tenho grande interesse em me aprofundar na área da tecnologia, onde já possuo conhecimento em diversas linguagens e já desenvolvi alguns projetos. Tenho um ótimo relacionamento interpessoal e sou ótima trabalhando em equipe.</p>
      
 <div align="center">
   <a href="https://www.linkedin.com/in/marcela-stade-a51678212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Marcela Stade" target="_blank">
