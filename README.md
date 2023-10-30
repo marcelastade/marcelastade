@@ -1,5 +1,5 @@
 <p>
- <img src= "./images/marcela.png"/>
+ <img src= "./images/marcela.png" "width=400"/>
 </p>
        
        
