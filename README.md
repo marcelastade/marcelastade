@@ -24,7 +24,7 @@
 
 <h2 align="left" > 📂 PROJETOS</h2>
 
-<p align = "left">Você pode conferir alguns dos meus projetos logo abaixo, nos meus repositórios fixados! =) </p>
+<p align = "left">Confira alguns projetos realizados por mim: </p>
 
 <p align = "center">
     <a href="https://github.com/Ma-189">
