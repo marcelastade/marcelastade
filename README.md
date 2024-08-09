@@ -1,5 +1,5 @@
 <p>
- <img src= "https://cdn.discordapp.com/attachments/1088502571372662814/1168689375471751339/IMG_6668.png?ex=6552adcc&is=654038cc&hm=8c506eb168dec4a32754db4bdc27d84638a0b4a3ed55f125e32ff0c9aa2aefa8&"/>
+ <img src= "https://media.discordapp.net/attachments/1088502571372662814/1168689375471751339/IMG_6668.png?ex=66b6a2cc&is=66b5514c&hm=b950360fa23910e6b6b10946f745bfa4d3237b06ff74bcc2d4a0b2b3d154f56a&=&format=webp&quality=lossless&width=550&height=220"/>
 </p>
        
        
