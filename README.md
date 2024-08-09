@@ -17,7 +17,7 @@
 <h2 align="left" > 🖥️ SKILLS </h2>
 
 <p align= "center">
-<img src= "https://media.discordapp.net/attachments/1088502571372662814/1168703708406743100/IMG_6670.png?ex=6552bb25&is=65404625&hm=88e4e18064fc41629b4871b852635ef95407762a1b09933d14188387b6f1ab0e&" width="500"/>
+<img src= "https://media.discordapp.net/attachments/1088502571372662814/1168703708406743100/IMG_6670.png?ex=66b6b025&is=66b55ea5&hm=9758e85b50194346ef71575f5bf2ab18a5f60153b0df79ec472085bcf7dbf085&=&format=webp&quality=lossless" width="500"/>
        </p>
        
 
